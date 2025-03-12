@@ -75,21 +75,3 @@ I have experience in writing test cases, executing manual test plans, identifyin
 🔗 GitHub: [github.com/mozhdeh](https://github.com/mozhdeh)
 
 ---
-
-### 🎯 How This Portfolio Helps?
-
-- Showcases **test cases & bug reports** to demonstrate testing skills.
-- Highlights **real-world projects** with testing documentation.
-- Gives recruiters a **glimpse into your QA knowledge**.
-
----
-
-### 📢 Next Steps
-
-- 🔹 Add more test cases & projects.
-- 🔹 Learn automation testing & update this portfolio.
-- 🔹 Contribute to open-source QA projects.
-
----
-
-Let me know if you want me to generate sample **test cases & bug reports** for you! 🚀
