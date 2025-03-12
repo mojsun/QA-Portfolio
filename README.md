@@ -1,25 +1,25 @@
-# 🧪 Manual Tester Portfolio - Mozhdeh Khorashahi
+# Manual Tester Portfolio - Mozhdeh Khorashahi
 
-## 🌟 About Me
+## About Me
 
 Hello! I'm **Mozhdeh Khorashahi**, a **Manual Tester** passionate about ensuring software quality through thorough testing.  
 I have experience in writing test cases, executing manual test plans, identifying bugs, and documenting defects.
 
 ---
 
-## 🚀 Skills & Tools
+## Skills & Tools
 
-✅ **Testing Types**: Functional Testing, UI Testing, Regression Testing, Smoke Testing, Compatibility Testing  
-✅ **Test Case Management**: Writing & executing test cases, reporting issues  
-✅ **Bug Tracking**: Jira, Trello, Bugzilla  
-✅ **API Testing**: Postman (Basic Level)  
-✅ **Databases**: SQL (Basic)  
-✅ **Operating Systems**: Windows, macOS  
-✅ **Test Documentation**: Test Plans, Test Cases, Bug Reports
+**Testing Types**: Functional Testing, UI Testing, Regression Testing, Smoke Testing, Compatibility Testing  
+**Test Case Management**: Writing & executing test cases, reporting issues  
+**Bug Tracking**: Jira, Trello, Bugzilla  
+**API Testing**: Postman (Basic Level)  
+**Databases**: SQL (Basic)  
+**Operating Systems**: Windows, macOS  
+**Test Documentation**: Test Plans, Test Cases, Bug Reports
 
 ---
 
-## 📂 Projects & Testing Examples
+## Projects & Testing Examples
 
 ### 🔹 Project 1: E-commerce Website Testing
 
@@ -61,7 +61,7 @@ I have experience in writing test cases, executing manual test plans, identifyin
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 📌 AWS Cloud Practitioner (In Progress)  
 📌 Youtube Course (SDET-QA Channel): Manual Software Testing Training(Full Course)
