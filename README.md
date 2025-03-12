@@ -68,7 +68,7 @@ I have experience in writing test cases, executing manual test plans, identifyin
 
 ---
 
-## 📌 Contact Me
+## Contact Me
 
 🔗 LinkedIn: [linkedin.com/in/mozhdeh](https://linkedin.com/in/mozhdeh)  
 🔗 GitHub: [github.com/mozhdeh](https://github.com/mozhdeh)
