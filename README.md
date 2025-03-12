@@ -64,7 +64,7 @@ I have experience in writing test cases, executing manual test plans, identifyin
 ## 📜 Certifications
 
 📌 AWS Cloud Practitioner (In Progress)  
-📌 Udemy Course: Manual Testing Fundamentals (Completed)
+📌 Youtube Course (SDET-QA Channel): Manual Software Testing Training(Full Course)
 
 ---
 
