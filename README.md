@@ -12,8 +12,8 @@ I have experience in writing test cases, executing manual test plans, identifyin
 **Testing Types**: Functional Testing, UI Testing, Regression Testing, Smoke Testing, Compatibility Testing  
 **Test Case Management**: Writing & executing test cases, reporting issues  
 **Bug Tracking**: Jira, Trello, Bugzilla  
-**API Testing**: Postman (Basic Level)  
-**Databases**: SQL (Basic)  
+**API Testing**: Postman  
+**Databases**: SQL  
 **Operating Systems**: Windows, macOS  
 **Test Documentation**: Test Plans, Test Cases, Bug Reports
 
