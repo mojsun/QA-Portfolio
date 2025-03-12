@@ -47,14 +47,14 @@ I have experience in writing test cases, executing manual test plans, identifyin
 
 ---
 
-## 🛠 Sample Test Cases
+## Sample Test Cases
 
 - 📄 [Login Page Test Cases](Test-Cases/login-test-cases.md)
 - 📄 [Search Functionality Test Cases](Test-Cases/search-test-cases.md)
 
 ---
 
-## 🐞 Bug Reports
+## Bug Reports
 
 - 📝 [E-commerce Checkout Bug](Bug-Reports/checkout-bug.md)
 - 📝 [Mobile UI Layout Issue](Bug-Reports/mobile-ui-bug.md)
